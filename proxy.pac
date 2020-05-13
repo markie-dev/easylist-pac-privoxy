@@ -234,8 +234,10 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 // 2050 rules:
 var bad_da_host_JSON = { "jobthread.com": null,
+"ade.googlesyndication.com": null, 
 "tps30.doubleverify.com": null, 
 "s.innovid.com": null, 
+"secure-gl.imrworldwide.com": null, 
 "secure-dcr.imrworldwide.com": null, 
 "doppler.hulu.com": null, 
 "a.huluad.com": null, 
