@@ -233,7 +233,7 @@ var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 // 2050 rules:
-var bad_da_host_JSON = { "jobthread.com": null,   
+var bad_da_host_JSON = { "jobthread.com": "github.com/markie-dev/easylist-pac-privoxy/raw/master/vid.mp4",   
 "content.ad": null,         
 "webvisor.ru": null,
 "nastydollars.com": null,
