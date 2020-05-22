@@ -32,7 +32,6 @@
 
 var normal = "DIRECT";
 var proxy = "DIRECT";                  // e.g. 127.0.0.1:3128
-var proxy = "192.168.86.40:80";                  // e.g. 127.0.0.1:3128
 // var blackhole_ip_port = "127.0.0.1:8119";  // ngnix-hosted blackhole
 // var blackhole_ip_port = "8.8.8.8:53";      // GOOG DNS blackhole; do not use: no longer works with iOS 11—causes long waits on some sites
 var blackhole_ip_port = "127.0.0.1:8119";    // on iOS a working blackhole requires return code 200;
